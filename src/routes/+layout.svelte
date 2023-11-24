@@ -1,5 +1,6 @@
 <svelte:head>
   <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+  <title>Agritech AS</title>
   <script src="https://kit.fontawesome.com/6f1611ac97.js" crossorigin="anonymous"></script>
 </svelte:head>
 <slot></slot>
